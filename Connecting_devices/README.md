@@ -7,6 +7,8 @@ You can add devices in 3 ways:
 
 ## Order devices
 
+Easily [order a new device](./Order_your_devices.md).
+
 ## Add existing devices
 
 ## Deploy virtual devices
