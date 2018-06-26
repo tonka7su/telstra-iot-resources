@@ -1,3 +1,0 @@
-# Developing devices
-
-Developing devices copy goes here...

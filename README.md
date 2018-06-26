@@ -1,8 +1,24 @@
-# Telstra IoT Platform Resources repo
+# Telstra IoT Platform resources
 
-This repo is designed to store the content of the Telstra IoT Platform Developer Portal POC for use during development and not for release.
+Welcome to Telstra IoT Platform. Its is a collection of services designed to help you create IoT solutions on any cloud or application platform of your choice.
 
-This README page is just the README for the repo and not to be referenced by the Telstra IoT Platform POC.
+## Getting started
 
-The root page of the rendered content is starts at [root.md](./root.md)
+[Get started](./Getting_started/) with Telstra IoT Platform!
+
+## Developing devices
+
+Learn how to [develop IoT devices](./Developing_devices/)!
+
+## Connecting devices
+
+[Connect your device](./Connecting_devices/) to the Telstra Iot platform!
+
+## Working with services
+
+Learn how to [work with services](./Working_with_services/) offered by the Telstra IoT Platform!
+
+## Cloud/application integration
+
+[Integrate](./Cloud_and_application_integration/) with the cloud or IoT application platform of your choice!
 

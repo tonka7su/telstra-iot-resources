@@ -1,3 +1,0 @@
-# Connecting devices
-
-Connecting devices copy goes here...
